@@ -1,0 +1,7 @@
+[project]
+name = "granite-workshop-rag-demonstration"
+version = "0.1.0"
+description = "A technical demonstration about text embeddings applied to RAG using granite embeddings model"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

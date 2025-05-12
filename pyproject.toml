@@ -9,6 +9,7 @@ dependencies = [
     "jupyterlab>=4.4.2",
     "matplotlib>=3.10.1",
     "numpy>=2.2.5",
+    "seaborn>=0.13.2",
     "sentence-transformers>=4.1.0",
     "torch>=2.7.0",
     "umap-learn>=0.5.7",
